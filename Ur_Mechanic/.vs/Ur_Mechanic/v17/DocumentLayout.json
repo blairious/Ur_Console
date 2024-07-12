@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\3dmodels\\UrGame\\test_environment\\Ur_Mechanic\\",
+  "WorkspaceRootPath": "E:\\3dmodels\\UrGame\\ur_console\\Ur_Console\\Ur_Mechanic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EBD3A1E-AD76-419F-844B-C74759823932}|Ur_Mechanic\\Ur_Mechanic.vcxproj|E:\\3dmodels\\UrGame\\test_environment\\Ur_Mechanic\\Ur_Mechanic\\Ur_Mechanic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8EBD3A1E-AD76-419F-844B-C74759823932}|Ur_Mechanic\\Ur_Mechanic.vcxproj|E:\\3dmodels\\UrGame\\ur_console\\Ur_Console\\Ur_Mechanic\\Ur_Mechanic\\Ur_Mechanic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8EBD3A1E-AD76-419F-844B-C74759823932}|Ur_Mechanic\\Ur_Mechanic.vcxproj|solutionrelative:Ur_Mechanic\\Ur_Mechanic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ur_Mechanic.cpp",
-              "DocumentMoniker": "E:\\3dmodels\\UrGame\\test_environment\\Ur_Mechanic\\Ur_Mechanic\\Ur_Mechanic.cpp",
+              "DocumentMoniker": "E:\\3dmodels\\UrGame\\ur_console\\Ur_Console\\Ur_Mechanic\\Ur_Mechanic\\Ur_Mechanic.cpp",
               "RelativeDocumentMoniker": "Ur_Mechanic\\Ur_Mechanic.cpp",
-              "ToolTip": "E:\\3dmodels\\UrGame\\test_environment\\Ur_Mechanic\\Ur_Mechanic\\Ur_Mechanic.cpp",
+              "ToolTip": "E:\\3dmodels\\UrGame\\ur_console\\Ur_Console\\Ur_Mechanic\\Ur_Mechanic\\Ur_Mechanic.cpp",
               "RelativeToolTip": "Ur_Mechanic\\Ur_Mechanic.cpp",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFMAAAAMAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-02T00:25:13.109Z",
               "EditorCaption": ""

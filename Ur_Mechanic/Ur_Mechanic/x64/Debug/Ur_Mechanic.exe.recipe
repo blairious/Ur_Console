@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\3dmodels\UrGame\test_environment\Ur_Mechanic\x64\Debug\Ur_Mechanic.exe</FullPath>
+      <FullPath>E:\3dmodels\UrGame\ur_console\Ur_Console\Ur_Mechanic\x64\Debug\Ur_Mechanic.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

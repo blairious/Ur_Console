@@ -48,10 +48,10 @@ void graphics_update() {
 	//Board Middle
 	for (int i = 8; i < 16; i++) {
 		if (player_progress[i] == true) {
-			cout << board_oppo[i];
+			cout << board_player[i];
 		}
 		else if (oppo_progress[i] == true) {
-			cout << board_player[i];
+			cout << board_oppo[i];
 		}
 		else {
 			cout << board_def[i];
@@ -82,13 +82,6 @@ void graphics_update() {
 
 
 int main() {
-
-	//for (int i = 0; i < 14; i++) {
-		//player_progress[i] = true;
-	//}
-	//for (int i = 0; i < 14; i++) {
-		//oppo_progress[i] = true;
-	//}
 
 	bool player_move = true;
 	int player_response;
